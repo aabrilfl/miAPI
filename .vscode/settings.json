@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "/Users/aabrilfl/.local/share/virtualenvs/miProyecto-A00DYvXr/bin/python",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "localhost",
+            "group": "local",
+            "database": "./db.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false
+}
